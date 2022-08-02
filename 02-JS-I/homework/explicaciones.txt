@@ -1,0 +1,25 @@
+Explicaciones.
+
+ * Variables: 
+    Una variable es una forma de almacenar datos para poder utilizarlos una o varias veces. En este caso, JavaScript posee variables de tipado dinamico, es decir, que si quiero guardar una dato tipo entero lo puedo hacer, y si luego en esa misma variable declarada quiero guardar un dato tipo boolean, tambien lo puedo hacer y no es necesario definir o declarar de que tipo es, ya que la variable se va adaptando a el dato que le asignemos.
+    Para declarar una variable en JavaScript tenemos tres tipos:
+     * var: es la primer forma de declarar una variable.
+     * let: es la forma mas nueva de declarar una variable, pero difiere destaca o cambia por el "scope" que puede manejar.
+     * const: es una variable, al cual una vez se le asignas los valores, ya no se lo puede modificar, es decir, que se mantienen constantes.
+ 
+ * Strings: 
+    Un string es un bloque de texto, que siempre esta definido entre comillas dobles o simples, "Hola, soy un string".
+
+ * Funciones (argumentos, `return`):
+    Una funcion es un bloque de codigo que ejecuta una serie de intrucciones o ordenes que nosotros definamos, y solo actuan cuando se manda a llamar a la funcion, es decir, que podemos escribir todo ese bloque de codigo, pero si no lo llamamos para que se ejecute, entonces no sucedera nada.
+    * argumentos: tambien podemos dar argumentos, es decir, que nuestra funciones realice operaciones o ejecute ordenes, a partir de unos argumentos que nosotros le asignemos.
+
+    * `return`: una funcion siempre retorna algo, tenga o no definido el return, pero basicamente sirve para que una vez mandemos llamar a nuestra funcion, y termine de ejecutar las ordenes o instrucciones recibidas, nos retorne un valor.
+
+ * Declaraciones `if`: 
+    Esta declaracion nos sirve para que podamos definir o verificar que algo sea verdadero o se cumpla, para en caso de que se cumpla o se verifique dicha condicion, podamos ejecutar un fragmento de codigo, o en caso de que no se cumpla, no se ejecute nada o orientemos para otro lado nuestro algoritmo.
+
+ * Valores booleanos (`true`, `false`):
+    Los valores booleanos solo tienen dos estados, verdadero (true) o falso (false), el cual nos permite tomar deciciones dependiendo del estado en el que una variable con asignacion booleana se encuentre.
+
+ 
