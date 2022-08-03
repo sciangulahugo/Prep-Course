@@ -1,0 +1,2 @@
+ * Arrays:
+    Los arreglos son como listas, en las cuales en ves de poder guardar un solo dato ya sea, numerico, string o booleano, podemos almacenar una combinacion de ambas y recorrerlas con el mismo nombre.
