@@ -1,0 +1,13 @@
+* `for`:
+    Este es un bucle en el cual en el cual se van a ir repitiendo los procesos designados dentro del mismo hasta que se cumpla una condicion.
+    El bucle consta de 3 partes:
+    for (var 1 = 0               ; i < 10                 ; i++                       ) {
+    //  | declaramos la variable | definimos la condicion | incrementamos la variable |
+        console.log(i);
+    }
+
+* `&&`, `||`, `!`:
+    Estos operadores logicos nos sirven para poder retornar un valor booleano, al igual que en la vida real, necesitamos poder decir [esto 'y' lo otro, esto 'o' lo otro, esto 'no' es asi] entre otras cosas. Para poder verificar que se cumplan dos condiciones, es decir, esto y lo otro sean verdaderos, se utiliza el &&.
+    &&: verificamos que todos los operandos sean verdaderos, Ej: (2 + 2 == 4) && (6 - 2 == 4), En este caso, ambos son verdaderos, entonces el valor booleano que tendriamos es true, ya que ambar partes se cumplen.
+    ||: verificamos que al menos uno de los operandos sean verdaderos: Ej: (1 + 1 == 2) || (1 + 10 == 2), En este caso, solo una parte es verdadera, pero igual tendriamos un valor booleano true, ya que solo estamos buscando una opcion verdadera.
+    !: lo que hace este simbolo es negar lo que viene despues, Ej: !true, si negamos el true, lo que tendriamos como resultado es un false, porque lo contrario a lo verdadero es falso.
