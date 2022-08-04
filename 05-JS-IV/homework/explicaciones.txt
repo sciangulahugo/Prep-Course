@@ -1,0 +1,15 @@
+  * Objetos:
+    Los objetos son similares a los arreglos, y a la ves muy dististons. Estos sirven como contenedor de datos al igual que un arreglo, nada mas que ahora podemos identificar al dato contenido en el objeto a travez de una clave.
+
+  * Propiedades:
+    Las propiedades son los datos que tiene nuestro objeto y, para definir una propiedad, necesitamos dos cosas, la clave y el dato.
+
+  * Métodos: 
+    Los metodos son las funciones que declaramos dentro de un objeto.
+
+  * Bucle `for…in`:
+    El bucle for in nos permite realizar la busqueda completa de todos los elementos que hay en un objeto.
+
+  * Notación de puntos vs notación de corchetes:
+    Podemos acceder a las propiedades de los objetos a travez de el nombre del objeto, luego un punto, y el nombre de la propiedad. objeto.nombrePropiedad
+    En cambio con los corchetes, podemos realizar lo mismo, pero teniendo el nombre de la propiedad dentro de un corchete y comillas objetro['nombrePropiedad'] 
