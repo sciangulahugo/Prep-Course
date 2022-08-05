@@ -1,0 +1,5 @@
+* `prototype`: 
+    Un prototipo es una propiedad, funcion, objeto o frangemto de codigo el cual se le puede asignar a cualquier clase.
+
+* _Constructors_ (de Clases):
+    Los constructores son para inicializar un objeto.
